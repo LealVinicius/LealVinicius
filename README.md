@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LealVinicius
+- 👋 Hi, I’m Vinicius Leal!
 - 👀 I’m interested in JavaScript, Node.js
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Node JS
 - 💞️ I’m looking to collaborate in projects back end.
