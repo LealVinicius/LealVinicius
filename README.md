@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript, TypeScript, Node.js
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Node JS and Express.js.
 - 💞️ I’m looking to collaborate in projects back end.
-- 📫 How to reach me
+- 📫 How to reach me: 
 
  <a href="https://www.linkedin.com/in/vinicius-silva-leal//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -12,7 +12,7 @@
 </a>
 
 
-## Linguagens e Ferramentas
+## languagens and tools:
 <div align="center" style="display: grid; grid-template-rows: auto auto auto; grid-template-columns: auto">
 <a href="https://github.com/31ina-Batist4" style="margin:10px; display:flex">
   
@@ -24,9 +24,9 @@
 
   <img align="center" alt="Elina-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img align="center" alt="Elina-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Elina-Java" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg](https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png)">
+  
 
-  <img align="center" alt="Elina-Markdown" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/800px-Markdown-mark.svg.png">
 
 <!---
 LealVinicius/LealVinicius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
