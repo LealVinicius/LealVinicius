@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Vinicius Leal</h1>
+
+
+<!---
+LealVinicius/LealVinicius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+
+<h2 align="center">Hi 👋, I'm Vinicius Leal</h2>
 <h3 align="center">25, SP. Desenvolvedor Back-end em Formação na DIO | C# | .NET</h3>
+<h3 align="center"> 💞️ I’m looking to collaborate in projects back end.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lealvinicius&label=Profile%20views&color=0e75b6&style=flat" alt="lealvinicius" /> </p>
 
