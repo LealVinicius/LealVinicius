@@ -18,9 +18,6 @@
   
   <img align="center" alt="Elina-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
- <img align="center" alt="Elina-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/C#/C#-original.svg">
- <img align="center" alt="Elina-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/C#/C#plain">
-
   <img align="center" alt="Elina-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   
   <img align="center" alt="Elina-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
