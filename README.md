@@ -1,17 +1,13 @@
-- 👋 Hi, I’m Vinicius Leal!
-- 👀 I’m interested in C#, .NET, JavaScript, TypeScript, Node.js
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Node JS and Express.js.
-- 💞️ I’m looking to collaborate in projects back end.
-- 📫 How to reach me: 
-
 <h1 align="center">Hi 👋, I'm Vinicius Leal</h1>
 <h3 align="center">25, SP. Desenvolvedor Back-end em Formação na DIO | C# | .NET</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lealvinicius&label=Profile%20views&color=0e75b6&style=flat" alt="lealvinicius" /> </p>
 
-- 🌱 I’m currently learning **I’m interested in C#, .NET, JavaScript, TypeScript, Node.js**
+- 🌱 I’m currently learning **C#, .NET, JavaScript, TypeScript, Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LealVinicius?tab=repositories](https://github.com/LealVinicius?tab=repositories)
+
+- 📫 How to reach me **vinicius-leal1999@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,11 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lealvinicius&show_icons=true&locale=en&layout=compact" alt="lealvinicius" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lealvinicius&show_icons=true&theme=dracula&locale=en" alt="lealvinicius" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lealvinicius&" alt="lealvinicius" /></p>
-
-
-<!---
-LealVinicius/LealVinicius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
