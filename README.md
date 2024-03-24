@@ -12,7 +12,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vinicius-silva-leal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinicius-silva-leal/" height="30" width="40" /></a>
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:vinicius-leal1999@outlook.com)
+<a href="mailto:vinicius-leal1999@outlook.com">
+  <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF" alt="E-mail">
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
